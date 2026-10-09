@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juhyeonie.github.io/Little-Frames/sitemap.xml
